@@ -1,6 +1,7 @@
-A00829207 Isaac Alejandro Enriquez Trejo
+#A00829207 Isaac Alejandro Enriquez Trejo
 #matricula y nombre 2
-#proposito del programa
+#Este programa calcula el área
+#y perímetro de un rectángulo.
 
 #funcion1  calcular área del rectángulo
 
