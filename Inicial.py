@@ -1,5 +1,5 @@
 #A00829207 Isaac Alejandro Enriquez Trejo
-#matricula y nombre 2
+#A00827133 Andrea Fernanda Molina Blandon
 
 #Este programa calcula el área
 #y perímetro de un rectángulo.
