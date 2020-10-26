@@ -3,6 +3,7 @@
 
 #Este programa calcula el área
 #y perímetro de un rectángulo.
+
 def calcular_perimetro(lado1, lado2):
     perimetro = 2*lado1 + 2*lado2
     return perimetro
