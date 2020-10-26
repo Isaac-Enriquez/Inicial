@@ -26,3 +26,4 @@ l2 = float(input())
 print(calcular_area(l1, l2))
 #desplegar calculo funcion 2
 print(calcular_perimetro(l1,l2))
+
